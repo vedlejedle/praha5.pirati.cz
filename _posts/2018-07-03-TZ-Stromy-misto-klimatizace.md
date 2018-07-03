@@ -9,15 +9,6 @@ author: Adam Zábranský
 image: posts/obrazek.u.tohoto.postu.jpg
 ---
 
-Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
-
-Obrázky dávejte do assets/img/posts/
-
-# Struktura
-
-* texty pište v *Markdown*
-* viz [wikipedia](https://cs.wikipedia.org/wiki/Markdown)
-
 <hr>
 
 Nový Metropolitní plán navrhuje zmenšit rozlohu zelených ploch v Praze. Odůvodnit to má studie Hustota a ekonomika měst, kterou si zadal Institut plánování a rozvoje (IPR) a podle které je péče o zeleň příliš drahá. Na pozitiva se studie nezaměřila. Piráti před úbytkem zelených ploch varují a zdůrazňují, že zeleň má svůj nezpochybnitelný přínos pro kvalitu života ve městě.
