@@ -5,7 +5,4 @@ campaignCategoryUid: praha2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-Úvodní text. Např vysvětlení koalice, podpory.
-
-> "Vyhrajeme volby", říká leader.
-
+Piráti na Praze 5 kandidují v koalici se Sdružením nezávislých občanů Prahy 5 a aktivními členy dalším spolků z Prahy 5
