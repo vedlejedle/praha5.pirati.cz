@@ -16,15 +16,13 @@ order: 1
 ## Umění, kultura a společenský život
 
 <dl class="c-program-key-point-list">
-    <dt>.</dt>
+    <dt>Komunitní centra a sportoviště.</dt>
     <dd>Budeme iniciovat a podpoříme výstavbu zařízení pro volnočasové aktivity s důrazem na co největší následné využití místními občany. Dohlédneme, aby smlouvy s provozovateli byly kvalitní, jasné a vypověditelné.</dd>
-    <dt>.</dt>
-    <dd>Podpoříme růst kapacit základních uměleckých škol podle poptávky.</dd>
-    <dt>.</dt>
+    <dt>Podporu místním umělcům.</dt>
     <dd>Budeme podporovat místní výtvarníky a umělecké soubory. Budeme transparentně a férově poskytovat prostory pro výstavy a divadelní a koncertní produkci.</dd>
-    <dt>.</dt>
+    <dt>Více místa pro divadlo, koncerty.</dt>
     <dd>Budeme usilovat o rozvoj divadel a vybudování koncertních prostor. Budeme podporovat letní kina a rozvoj parků jako prostor pro setkávání občanů.</dd>
-    <dt>.</dt>
+    <dt>Chránit tvář lokalit.</dt>
     <dd>Zasadíme se o skutečnou ochranu památek a památkových zón dohledem na dodržování pravidel.
 </dd>
 </dl>
@@ -32,19 +30,17 @@ order: 1
 ## Sport a aktivní odpočinek
 
 <dl class="c-program-key-point-list">
-    <dt>Transparentní řízení města.</dt>
-    <dd>Stav a vývoj jednotlivých městských projektů musí být snadno dohledatelný. Jedině tak mohou občané kontrolovat, co se ve městě děje. Zavedeme moderní postupy projektového řízení, které odpovídají třetímu tisíciletí.</dd>
-    <dt>Otevřené jednání zastupitelstva.</dt>
-    <dd>Zastupitelstvo je nejdůležitější orgán města. Občané se na něj ale nemohou připravit předem a často musí dlouhé hodiny čekat na slovo. Zajistíme, aby podklady pro jednání byly s předstihem dostupné na internetu. Pro důležitá rozhodnutí a otázky občanů vyhradíme pevnou hodinu v programu jednání.</dd>
-    <dt>Rozdělování dotací a grantů.</dt>
-    <dd>Dotace a granty příspěvkovým organizacím města musí mít jasné, férové a stabilní podmínky.</dd>
-    <dt>Otevřená data.</dt>
-    <dd>Radnice disponuje spoustou užitečných informací. Zpřístupníme je ve strojově čitelné podobě. Díky tomu budou moci vzniknout např. užitečné mobilní aplikace třetích stran.</dd>
+    <dt>Zpřístupnit sportoviště veřejnosti.</dt>
+    <dd>Ve spolupráci s řediteli škol budeme všestranně podporovat využití školních prostor mimo výuku pro místní společenský život.</dd>
+    <dt>Zdravý životní styl.</dt>
+    <dd>Podle místního zájmu budeme vycházet vstříc požadavkům na fitness prvky v rámci veřejných prostranství, i nad rámec participativního rozpočtu.</dd>
+    <dt>Dlouhodobá koncepce.</dt>
+    <dd>Budeme prosazovat smysluplnost a dostupnost míst pro rekreaci už ve fázi územního plánování, zejména pro místní obyvatele.</dd>
 </dl>
 
 ## Něco navíc
 
 <dl class="c-program-key-point-list">
-    <dt>Koordinátor participace.</dt>
-    <dd>Participativní procesy jsou administrativně náročné. Zasadíme se o to, aby někdo byl za tuto agendu přímo odpovědný a zajistíme tak, že participace bude mít kontinuitu.</dd>
+    <dt>Koncepce a kontinuita.</dt>
+    <dd>Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.</dd>
 </dl>
