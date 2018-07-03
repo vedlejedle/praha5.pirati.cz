@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: místopředseda spolku SNOP 5 # zobrazuje se v lide
 profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
-img: people/petr.bervid.png # zakomentuj radek dokud není fotka
+img: people/petr-bervid.png # zakomentuj radek dokud není fotka
 mail:
   - petr.bervid@seznam.cz
 profiles:
