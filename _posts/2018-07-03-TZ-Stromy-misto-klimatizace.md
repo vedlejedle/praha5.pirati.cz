@@ -15,19 +15,26 @@ Nový Metropolitní plán navrhuje zmenšit rozlohu zelených ploch v Praze. Od�
 
 Praha je alespoň zatím zelené město – to se má však změnit. V Metropolitním plánu má být zeleň zásadně omezena a pokud by byl nějaký developer osvícený a chtěl parků založit více, tak nesmí. Autor Metropolitního plánu architekt Koucký totiž stanovil maximální rozlohu veřejných prostranství a parků, kterou může nová zástavba pojmout. Pro odůvodnění těchto návrhů si IPR zadal studie, které ukazují, jak je péče o veřejná prostranství a parky drahá. Náklady na údržbu parků a veřejných ploch jim vyšly až 100 tis. Kč/ha za rok, z toho náklady na údržbu zeleně tvoří max. desítky tisíc Kč/ha za rok. 
 
-Eva Tylová, zastupitelka za Piráty, Zelené a LES v Praze 12 a pirátská kandidátka na senátorku k tomu dodává: *_„Studie Hustota a ekonomika měst je účelově zaměřená pouze na vyčíslení nákladů, které jsou na údržbu zeleně potřeba. Přínosy se nepokusili vůbec zjistit, přitom stromy, keře i tráva slouží jako klimatizace, protipovodňová služba a ve městě navíc zachycují prach i hluk. Podle výzkumů prof. Vyskota z Mendelovy univerzity 1 ha lesa s cca 300 stromy může ušetřit elektrickou energii za 16 mil. Kč./ha za rok. Takže na jedné straně počítáme náklady stovky tisíc Kč/ha a rok, ale na druhé straně jsou přínosy za desítky milionů Kč/ha za rok. Mít zeleň ve městě tedy není žádné plýtvání penězi.“*_
+> Eva Tylová, zastupitelka za Piráty, Zelené a LES v Praze 12 a pirátská kandidátka na senátorku k tomu dodává: *„Studie Hustota a ekonomika měst je účelově zaměřená pouze na vyčíslení nákladů, které jsou na údržbu zeleně potřeba. Přínosy se nepokusili vůbec zjistit, přitom stromy, keře i tráva slouží jako klimatizace, protipovodňová služba a ve městě navíc zachycují prach i hluk. Podle výzkumů prof. Vyskota z Mendelovy univerzity 1 ha lesa s cca 300 stromy může ušetřit elektrickou energii za 16 mil. Kč./ha za rok. Takže na jedné straně počítáme náklady stovky tisíc Kč/ha a rok, ale na druhé straně jsou přínosy za desítky milionů Kč/ha za rok. Mít zeleň ve městě tedy není žádné plýtvání penězi.“*
 
-Zeleň je významná i pro naše zdraví, pirátský kandidát na primátora a lékař Zdeněk Hřib zmiňuje řadu přínosů pro zdraví a spokojenost lidí: *_„Ulice se stromy představují obecně příjemnější prostředí k životu, povzbuzují fyzickou aktivitu a mají také dopad na silnější komunitní vazby, což u lidí podporuje zdraví a pocit spokojenosti. Části města s vyšší hustotou stromů jednoznačně vykazují nižší spotřebu antidepresiv. Navíc stromy fungují jako biologické filtry snižující až o 25 % množství polétavého prachu, který zachycují svými listy a mají tak pozitivní vliv na dlouhověkost obyvatel měst.“*_
+> Zeleň je významná i pro naše zdraví, pirátský kandidát na primátora a lékař Zdeněk Hřib zmiňuje řadu přínosů pro zdraví a spokojenost lidí: *„Ulice se stromy představují obecně příjemnější prostředí k životu, povzbuzují fyzickou aktivitu a mají také dopad na silnější komunitní vazby, což u lidí podporuje zdraví a pocit spokojenosti. Části města s vyšší hustotou stromů jednoznačně vykazují nižší spotřebu antidepresiv. Navíc stromy fungují jako biologické filtry snižující až o 25 % množství polétavého prachu, který zachycují svými listy a mají tak pozitivní vliv na dlouhověkost obyvatel měst.“*
 
 **Metropolitní plán** najdete [zde](http://plan.iprpraha.cz/cs/metropolitni-plan/prohlizeni).
+
 **Studii o přínosech zeleně “Hodnocení funkcí a služeb ekosystémů České republiky”** najdete [zde](http://fzp.ujep.cz/projekty/hodnocenifunkciasluzebekosystemucr.pdf).
 
+
 **Ing. Eva Tylová**
+
 Zastupitelka za Piráty, Zelené a LES v Praze 12 a pirátská kandidátka na senátorku
+
 Kontakt: +420 720 538 058, [eva.tylova@ecn.cz](mailto:eva.tylova@ecn.cz)
 
+
 **MUDr. Zdeněk Hřib**
+
 Pirátský kandidát na primátora
+
 [zdenek.hrib@pirati.cz](mailto:zdenek.hrib@pirati.cz)
 
 
