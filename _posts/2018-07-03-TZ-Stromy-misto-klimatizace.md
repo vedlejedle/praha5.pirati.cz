@@ -6,7 +6,7 @@ layout: post
 title: Místo klimatizace potřebujeme ve městě stromy 
 author: Adam Zábranský 
 # authorId: adam.zabransky    uid nekoho z _people (nepoviné)
-image: posts/obrazek.u.tohoto.postu.jpg
+image: posts/zelen-v-praze.jpg
 ---
 
 <hr>
