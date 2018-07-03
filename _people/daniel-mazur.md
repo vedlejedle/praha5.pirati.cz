@@ -9,7 +9,7 @@ description: Předseda místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/daniel-mazur.png # zakomentuj radek dokud není fotka
 mail:
-  - daníel.mazur@pirati.cz
+  - daniel.mazur@pirati.cz
 profiles:
   facebook: https://www.facebook.com/daniel.mazur.5268  # pokud nema, staci smazat tuto radku
 
