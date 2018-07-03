@@ -5,13 +5,13 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 # approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: daniel.mazur
-perex: >Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze.
-Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Budeme otevírat sportoviště při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
+perex: >Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.  
   
 order: 1
 ---
 
-**Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**
+**Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze. Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Budeme otevírat sportoviště při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
+**
 
 ## Umění, kultura a společenský život
 
@@ -38,9 +38,4 @@ order: 1
     <dd>Budeme prosazovat smysluplnost a dostupnost míst pro rekreaci už ve fázi územního plánování, zejména pro místní obyvatele.</dd>
 </dl>
 
-## Něco navíc
 
-<dl class="c-program-key-point-list">
-    <dt>Koncepce a kontinuita.</dt>
-    <dd>Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.</dd>
-</dl>
