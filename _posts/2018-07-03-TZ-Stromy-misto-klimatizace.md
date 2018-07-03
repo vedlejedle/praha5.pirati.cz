@@ -20,6 +20,7 @@ Eva Tylová, zastupitelka za Piráty, Zelené a LES v Praze 12 a pirátská kand
 Zeleň je významná i pro naše zdraví, pirátský kandidát na primátora a lékař Zdeněk Hřib zmiňuje řadu přínosů pro zdraví a spokojenost lidí: *_„Ulice se stromy představují obecně příjemnější prostředí k životu, povzbuzují fyzickou aktivitu a mají také dopad na silnější komunitní vazby, což u lidí podporuje zdraví a pocit spokojenosti. Části města s vyšší hustotou stromů jednoznačně vykazují nižší spotřebu antidepresiv. Navíc stromy fungují jako biologické filtry snižující až o 25 % množství polétavého prachu, který zachycují svými listy a mají tak pozitivní vliv na dlouhověkost obyvatel měst.“*_
 
 **Metropolitní plán** najdete [zde](http://plan.iprpraha.cz/cs/metropolitni-plan/prohlizeni).
+
 **Studii o přínosech zeleně “Hodnocení funkcí a služeb ekosystémů České republiky”** najdete [zde](http://fzp.ujep.cz/projekty/hodnocenifunkciasluzebekosystemucr.pdf).
 
 **Ing. Eva Tylová**
