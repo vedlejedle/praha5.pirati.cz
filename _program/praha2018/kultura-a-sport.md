@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 # approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: daniel.mazur
-perex: >Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.  
+perex: Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.  
   
 order: 1
 ---
