@@ -5,7 +5,7 @@ fullname: Mgr. Eva Horáková	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Členka vedení Priráti Praha 5 # zobrazuje se v lide
+description: Členka místního sdružení # zobrazuje se v lide
 profession: Medicínská konzultantka
 img: people/eva-horakova.png # zakomentuj radek dokud není fotka
 mail:
