@@ -16,7 +16,7 @@
 title: Piráti Praha 5
 email: pirati.praha5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stránka mísntího sdružení Piráti Praha 5.
+  Stránka místního sdružení Piráti Praha 5.
 keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -42,12 +42,12 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects
 
 homepageBanner:
-  display: false
+  display: true
   link: /komunalni-volby/
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-      # default: path/to/img.jpg
+       default: komunalni-volby/foto_P5_vsichni.png
       # mobile: path/to/img.jpg
 
 calendar:
