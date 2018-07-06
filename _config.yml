@@ -41,14 +41,6 @@ organization:
   mapLink: https://mapy.cz/s/2N7Yv
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageBanner:
-  display: true
-  link: /komunalni-volby/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-       default: komunalni-volby/foto_P5_vsichni.png
-      # mobile: path/to/img.jpg
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
@@ -143,7 +135,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.3.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
