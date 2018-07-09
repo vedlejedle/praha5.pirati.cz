@@ -9,8 +9,6 @@ author: Adam Zábranský
 image: posts/zelen-v-praze.jpg
 ---
 
-<hr>
-
 Nový Metropolitní plán navrhuje zmenšit rozlohu zelených ploch v Praze. Odůvodnit to má studie Hustota a ekonomika měst, kterou si zadal Institut plánování a rozvoje (IPR) a podle které je péče o zeleň příliš drahá. Na pozitiva se studie nezaměřila. Piráti před úbytkem zelených ploch varují a zdůrazňují, že zeleň má svůj nezpochybnitelný přínos pro kvalitu života ve městě.
 
 Praha je alespoň zatím zelené město – to se má však změnit. V Metropolitním plánu má být zeleň zásadně omezena a pokud by byl nějaký developer osvícený a chtěl parků založit více, tak nesmí. Autor Metropolitního plánu architekt Koucký totiž stanovil maximální rozlohu veřejných prostranství a parků, kterou může nová zástavba pojmout. Pro odůvodnění těchto návrhů si IPR zadal studie, které ukazují, jak je péče o veřejná prostranství a parky drahá. Náklady na údržbu parků a veřejných ploch jim vyšly až 100 tis. Kč/ha za rok, z toho náklady na údržbu zeleně tvoří max. desítky tisíc Kč/ha za rok. 
