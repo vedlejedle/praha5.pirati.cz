@@ -1,7 +1,8 @@
 ---
 date: 2018-07-03
-category: blog
-tags: Tiskové-zprávy Praha
+tags: 
+  - Tiskové zprávy 
+  - Praha
 layout: post
 title: Místo klimatizace potřebujeme ve městě stromy 
 author: Adam Zábranský 

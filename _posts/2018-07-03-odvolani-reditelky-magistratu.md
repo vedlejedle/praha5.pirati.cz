@@ -1,7 +1,8 @@
 ---
 date: 2018-07-03
-category: blog
-tags: Tiskové-zprávy Praha
+tags: 
+  - Tiskové zprávy 
+  - Praha
 layout: post
 title: Ředitelka Magistrátu kašlala na boj proti korupci, její odvolání vítáme 
 author: Adam Zábranský, Zdeněk Hřib
