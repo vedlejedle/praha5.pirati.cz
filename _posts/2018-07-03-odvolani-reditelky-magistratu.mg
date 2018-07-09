@@ -9,8 +9,6 @@ author: Adam Zábranský, Zdeněk Hřib
 image: posts/magistrat.jpg
 ---
 
-<hr>
-
 Piráti vítají odvolání ředitelky Magistrátu Děvěrové, ke kterému se dnes uchýlila primátorka Adriana Krnáčová. Piráti dlouhodobě upozorňují na to, že Magistrát neplní protikorupční strategii. Ředitelka navíc odmítla prověřit pochybné chování svých podřízených. Piráti také vítají, že primátorka obsazení pozice nechá až na dalším primátorovi. Hnutí ANO totiž běžně významné funkce obsazuje na základě stranických zájmů a ne odbornosti, jak je vidět například u trafik v městských firmách.
 
 > „Už několik měsíců upozorňuji na to, že Magistrát vůbec neplní protikorupční strategii, kterou před rokem schválilo zastupitelstvo. Úředníci mi nedokázali odpovědět, na čem se to zaseklo,“ upozorňuje předseda pirátského klubu v pražském zastupitelstvu Adam Zábranský s odkazem na [zatím nezodpovězené dotazy](https://praha.pirati.cz/magistrat-neplni-protikorupcni-strategii.html), které před dvěma měsíci úředníkům poslal.
