@@ -10,7 +10,6 @@ author: Adam Zábranský
 image: posts/zelen-v-praze.jpg
 ---
 
-<hr>
 
 Nový Metropolitní plán navrhuje zmenšit rozlohu zelených ploch v Praze. Odůvodnit to má studie Hustota a ekonomika měst, kterou si zadal Institut plánování a rozvoje (IPR) a podle které je péče o zeleň příliš drahá. Na pozitiva se studie nezaměřila. Piráti před úbytkem zelených ploch varují a zdůrazňují, že zeleň má svůj nezpochybnitelný přínos pro kvalitu života ve městě.
 
