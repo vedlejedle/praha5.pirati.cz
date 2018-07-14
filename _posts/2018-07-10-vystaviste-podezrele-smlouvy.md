@@ -1,5 +1,5 @@
 ---
-date: 2018-07-03
+date: 2018-07-10
 category: blog
 tags: Tiskové-zprávy Praha
 layout: post
