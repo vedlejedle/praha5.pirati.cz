@@ -6,7 +6,7 @@ leader:
   uid: daniel.mazur
   age: 40
   profession: vědecký pracovník, manažer výzkumných projektů
-  party: Piráti
+  party: Pirát
   description: Vzdělávání a digitalizace # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -17,7 +17,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: eva.horakova
     profession: medicínská konzultantka
     description: zdravotní a sociální problematika
-    party: Piráti
+    party: Pirátka
   - uid: petr.bervid
     age: 63
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
@@ -33,7 +33,7 @@ tail: # zbytek kandidatky
   - name: Ing. Štěpán Rattay
     age: 41
     profession: místostarosta obce Svatý Jan pod Skalou
-    party: Piráti
+    party: Pirát
   - name: Ing. Milan Kryl
     age: 57
     profession: filantrop, jednatel Spolku na ochranu Barrandova
@@ -49,7 +49,7 @@ tail: # zbytek kandidatky
   - name: Petr Křičenský
     age: 51
     profession: skladník a revizní technik elektro
-    party: Piráti
+    party: Pirát
   - name: Ing. Zdeněk Laciga
     age: 66
     profession: informatik, sportovec
@@ -57,7 +57,7 @@ tail: # zbytek kandidatky
   - name: Linda Neubergová
     age: 40
     profession: senior account manager v reklamní agentuře
-    party: Piráti 
+    party: Pirátka
 note: # poznámka pod kanidátku
     Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
