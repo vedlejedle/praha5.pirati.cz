@@ -35,9 +35,9 @@ tail: # zbytek kandidatky
     profession: místostarosta obce Svatý Jan pod Skalou
     party: Piráti
   - name: Ing. Milan Kryl
-    age: 47
+    age: 57
     profession: filantrop, jednatel Spolku na ochranu Barrandova
-    party: SNOP 5
+    party:
   - name: MgA. Adam Rut
     age: 32
     profession: analytik a projektový manažer
