@@ -5,7 +5,7 @@ fullname: Linda Neubergová 	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Členka místního místního sdružení # zobrazuje se v lide
+description: Členka místního sdružení # zobrazuje se v lide
 profession: Senior account manager v reklamní agentuře
 img: people/linda-neubergova.png # zakomentuj radek dokud není fotka
 mail:
