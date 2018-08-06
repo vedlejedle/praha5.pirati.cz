@@ -5,7 +5,7 @@ fullname: Petr Křičenský	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Člen místního sdružení # zobrazuje se v lide
+description: Místopředseda místního sdružení # zobrazuje se v lide
 profession: Revizní technik elektro
 img: people/petr-kricensky.png # zakomentuj radek dokud není fotka
 mail:
