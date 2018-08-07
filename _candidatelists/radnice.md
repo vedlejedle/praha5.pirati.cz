@@ -193,5 +193,5 @@ tail: # zbytek kandidatky
    
     
 note: # poznámka pod kanidátku
-    
+    xxx
 ---
