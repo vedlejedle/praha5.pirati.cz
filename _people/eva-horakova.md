@@ -5,7 +5,7 @@ fullname: Mgr. Eva Horáková	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Členka místního sdružení # zobrazuje se v lide
+description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Medicínská konzultantka
 img: people/eva-horakova.png # zakomentuj radek dokud není fotka
 mail:
