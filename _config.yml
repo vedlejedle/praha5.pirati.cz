@@ -6,6 +6,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Stránka místního sdružení Piráti Praha 5.
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 5, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 
+administrator:
+  email: filip@karlovi.cz # mail kam pujdou výstupy z buildu
+
 organization:
   name: Piráti Praha 5
   shortName: Piráti Praha 5

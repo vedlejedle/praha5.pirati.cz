@@ -23,9 +23,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
     description: životní prostředí, zapojení občanů do rozhodování
     party: SNOP 5
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb
+
+tail:
   - name: Ing. Jiří Vejmelka
     age: 69
     profession: člen předsednictva spolku SNOP 5, v důchodu
@@ -70,7 +69,7 @@ tail: # zbytek kandidatky
     age: 43
     profession: právník, VŠ pedagog
     party:  SNOP 5
-   - name: Michal Jokeš
+  - name: Michal Jokeš
     age: 27
     profession: koordinátor lidských zdrojů
     party: Pirát
@@ -120,7 +119,7 @@ tail: # zbytek kandidatky
     party: nezávislý kandidát
   - name: Ing. Michal Kluka
     age: 46
-    profession:programátor
+    profession: programátor
     party: nezávislý kandidát
   - name: Irena Bočková
     age: 61
@@ -142,7 +141,7 @@ tail: # zbytek kandidatky
     age: 80
     profession: důchodkyně
     party: nezávislá kandidátka
-  - name:Ing. Lenka Kolínská
+  - name: Ing. Lenka Kolínská
     age: 55
     profession: zástupce firmy
     party: nezávislá kandidátka
@@ -177,7 +176,7 @@ tail: # zbytek kandidatky
   - name: Monika Jirásková
     age: 31
     profession: lektorka
-    party:nezávislá kandidátka
+    party: nezávislá kandidátka
   - name: Mgr. Jan Brandejs
     age: 28
     profession: projektový manažer
@@ -191,7 +190,4 @@ tail: # zbytek kandidatky
     profession: polygraf
     party: Za zelené Malvazinky
    
-    
-note: # poznámka pod kanidátku
-    xxx
 ---
