@@ -77,14 +77,6 @@ tail:
     age: 65
     profession: výzkumný pracovník
     party: Občané pro Prahu 5
-  - name: Dalibor Müller
-    age: 48
-    profession: koordinátor technické asistence
-    party: nezávislý kandidát
-  - name: Dalibor Müller
-    age: 48
-    profession: koordinátor technické asistence
-    party: nezávislý kandidát
   - name: Mgr. Prokop Závada Ph.D.
     age: 38
     profession: vědec
