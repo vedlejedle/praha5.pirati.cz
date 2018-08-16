@@ -9,4 +9,6 @@ perex: Zdravé životní prostředí je základem pro to, aby se Pražanům dob�
 order: 2
 ---
 
-**Chceme udržovat a rozvíjet plochy zeleně a v zájmu snížení prašnosti a moderaci extrémních teplot prosazovat vysazování stromů a stromořadí v ulicích.  Zlepšíme dohled nad úklidem v ulicích i parcích, zasadíme se o řešení zděděného problému megaskládky v Motole a budeme bránit podobným projektům. V rezidenčních čtvrtích budeme klást důraz na bezpečnost chodců zklidňováním dopravy, omezení tranzitní dopravy, zejména nákladní a na obslužnost hromadnou dopravou. Budeme chránit celistvost a respektovat ochranná pásma přírodních parků a budeme s ohledem na ně budovat pěší stezky, cyklostezky a odpočinková místa.
+**Chceme udržovat a rozvíjet plochy zeleně a v zájmu snížení prašnosti a moderaci extrémních teplot prosazovat vysazování stromů a stromořadí v ulicích.  Zlepšíme dohled nad úklidem v ulicích i parcích, zasadíme se o řešení zděděného problému megaskládky v Motole a budeme bránit podobným projektům. V rezidenčních čtvrtích budeme klást důraz na bezpečnost chodců zklidňováním dopravy, omezení tranzitní dopravy, zejména nákladní a na obslužnost hromadnou dopravou. Budeme chránit celistvost a respektovat ochranná pásma přírodních parků a budeme s ohledem na ně budovat pěší stezky, cyklostezky a odpočinková místa.**
+
+
