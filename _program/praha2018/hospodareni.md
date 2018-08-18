@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
 garant: karel.bauer
-perex: Naším cílem je vyrovnaný rozpočet městské části a o jeho naplňování budeme detailně informovat. Hospodaření městské části a jejích firem zprůhledníme: zveřejníme soupis majetku svěřeného městské části, o případných prodejích budeme s předstihem informovat. 
+perex: Naším cílem je vyrovnaný rozpočet městské části a o jeho naplňování budeme detailně informovat. Hospodaření městské části a jejích firem zprůhledníme. Zveřejníme soupis majetku svěřeného městské části, o případných prodejích budeme s předstihem informovat. 
 order: 4
 ---
 
