@@ -15,11 +15,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: hospodaření městské části
     party: SNOP 5
   - uid: eva.horakova
+    age: 38
     profession: medicínská konzultantka
     description: zdravotní a sociální problematika
     party: Pirátka
   - uid: petr.bervid
-    age: 63
+    age: 48
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
     description: životní prostředí, zapojení občanů do rozhodování
     party: SNOP 5
