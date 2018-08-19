@@ -11,11 +11,12 @@ leader:
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: karel.bauer
+    age: 56
     profession: ekonom, majitel účetní firmy, předseda spolku SNOP 5
     description: hospodaření městské části
     party: SNOP 5
   - uid: eva.horakova
-    age: 38
+    age: 37
     profession: medicínská konzultantka
     description: zdravotní a sociální problematika
     party: Pirátka
@@ -27,7 +28,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 
 tail:
   - name: Ing. Jiří Vejmelka
-    age: 69
+    age: 68
     profession: člen předsednictva spolku SNOP 5, v důchodu
     party: SNOP 5
   - name: Ing. Štěpán Rattay
