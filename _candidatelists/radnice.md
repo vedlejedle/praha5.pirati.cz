@@ -25,22 +25,27 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
     description: životní prostředí, zapojení občanů do rozhodování 
     party: SNOP 5
-  - name: Ing. Jiří Vejmelka
+  - uid: jiri.vejmelka
+    name: Ing. Jiří Vejmelka
     age: 68
     profession: člen předsednictva spolku SNOP 5, v důchodu
     description: životní prostředí, zapojení občanů do rozhodování
     party: SNOP 5
-
-tail:
-  - name: Ing. Štěpán Rattay
+  - uid: stepan.rattay
+    name: Ing. Štěpán Rattay
     age: 41
     profession: místostarosta obce Svatý Jan pod Skalou
+    description: doprava
     party: Pirát
-  - name: Ing. Milan Kryl
+  - uid: milan.kryl
+    name: Ing. Milan Kryl
     age: 57
     profession: filantrop, jednatel Spolku na ochranu Barrandova
-    party:
-  - name: MgA. Adam Rut
+    description:
+    party: Spolek na ochranu Barrandova
+
+tail:
+   - name: MgA. Adam Rut
     age: 32
     profession: analytik a projektový manažer
     party: Piráti
