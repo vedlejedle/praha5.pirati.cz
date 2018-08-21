@@ -45,7 +45,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Spolek na ochranu Barrandova
 
 tail:
-   - name: MgA. Adam Rut
+  - name: MgA. Adam Rut
     age: 32
     profession: analytik a projektový manažer
     party: Piráti
