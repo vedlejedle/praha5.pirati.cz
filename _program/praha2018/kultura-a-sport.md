@@ -7,7 +7,7 @@ campaignGroupUid: volby-2018
 garant: daniel.mazur
 perex: Péče o kulturní bohatství a o celý sektor umělecké tvorby a produkce potřebuje dlouhodobě stabilní podpůrné prostředí. Budeme navazovat na dříve provedenou dobrou práci, aktualizovat koncepci podpory umění a integrovat ji do plánování rozvoje městské části.  
   
-order: 5
+order: 8
 ---
 
 **Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze. Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Budeme otevírat sportoviště při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
