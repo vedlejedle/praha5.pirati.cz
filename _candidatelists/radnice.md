@@ -23,14 +23,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: petr.bervid
     age: 48
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
+    description: životní prostředí, zapojení občanů do rozhodování 
+    party: SNOP 5
+  - name: Ing. Jiří Vejmelka
+    age: 68
+    profession: člen předsednictva spolku SNOP 5, v důchodu
     description: životní prostředí, zapojení občanů do rozhodování
     party: SNOP 5
 
 tail:
-  - name: Ing. Jiří Vejmelka
-    age: 68
-    profession: člen předsednictva spolku SNOP 5, v důchodu
-    party: SNOP 5
   - name: Ing. Štěpán Rattay
     age: 41
     profession: místostarosta obce Svatý Jan pod Skalou
