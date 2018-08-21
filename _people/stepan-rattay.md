@@ -5,7 +5,7 @@ fullname: Ing. Štěpán Rattay  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Člen místního sdružení # zobrazuje se v lide
+description: Registrovaný příznivec Pirátů # zobrazuje se v lide
 profession: místostarosta obce Svatý Jan pod Skalou
 img: people/stepan-rattay.jpg # zakomentuj radek dokud není fotka
 mail:
