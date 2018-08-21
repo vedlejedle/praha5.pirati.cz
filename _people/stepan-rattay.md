@@ -7,11 +7,11 @@ category:
 ordclenove: 3
 description: Člen místního sdružení # zobrazuje se v lide
 profession: místostarosta obce Svatý Jan pod Skalou
-img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/stepan-rattay.jpg # zakomentuj radek dokud není fotka
 mail:
   - tajemnik@pirati.cz
 profiles:
-  facebook: hhttps://www.facebook.com/stepan.rattay  # pokud nema, staci smazat tuto radku
+  facebook: https://www.facebook.com/stepan.rattay  # pokud nema, staci smazat tuto radku
 
 ---
 
