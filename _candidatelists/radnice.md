@@ -41,7 +41,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     name: Ing. Milan Kryl
     age: 57
     profession: filantrop, jednatel Spolku na ochranu Barrandova
-    description:
+    description: územní plánování
     party: Spolek na ochranu Barrandova
 
 tail:
