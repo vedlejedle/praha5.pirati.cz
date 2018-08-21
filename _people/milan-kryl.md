@@ -9,7 +9,7 @@ description:  předseda Spolku na ochranu Barrndova # zobrazuje se v lide
 profession: filantrop
 img: people/milan-kryl.png # zakomentuj radek dokud není fotka
 mail:
-  - pan.vejmelka@gmail.com
+  - milan.kryl@post.cz
 profiles:
 
 ---
