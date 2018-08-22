@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: Registrovaný příznivec Pirátů # zobrazuje se v lide
 profession: místostarosta obce Svatý Jan pod Skalou
-img: people/stepan-rattay.jpg # zakomentuj radek dokud není fotka
+img: people/stepan-rattay-kulaty.jpg # zakomentuj radek dokud není fotka
 mail:
   - tajemnik@pirati.cz
 profiles:
