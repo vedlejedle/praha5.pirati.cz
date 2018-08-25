@@ -9,11 +9,11 @@ groups:
   - category: clenove
 ---
 
-Vlastnosti spojované s Piráty:
+## Vlastnosti spojované s Piráty:
 
 * Otevřenost, průhlednost, poctivost, pracovitost, liberalismus, svoboda jednotlivce, informovanost, férovost, komunikativnost, odbornost, rozum, mládí, dynamika.
 
-Proti čemu se Piráti vymezují:
+## Proti čemu se Piráti vymezují:
 
 * Jednoduchá a rychlá řešení na složité problémy, hysterie, demagogie, nenávist. 
 * Rasismus, sexismus, xenofobie, fašismus, komunismus.
