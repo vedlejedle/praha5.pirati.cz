@@ -4,7 +4,6 @@ title: Komunální volby v Praze
 campaignCategoryUid: praha2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
-
 ### Hlavní pirátské programové priority a zásady:
 
 1. **Zjednodušení administrativy**: Digitalizace, e-Government, svobodný software.
@@ -12,6 +11,6 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 3. **Obrana svobody**: Přímá demokracie, svobodné podnikání, odstraňování bariér (ve vzdělání, sociální oblasti, přístupu ke zdravotnictví apod.), rovné příležitosti žen a mužů.
 4. **Ochrana občanů před šikanou**: Podpora sociálně slabých a znevýhodněných (samoživitelky, senioři, studenti, nezaopatřené děti, děti z dětských domovů, atd.), ochrana přírody - ekologie, životní prostředí. Piráti chrání zájmy občanů, nikoliv politiků.
 
-Piráti v Praze 5 kandidují v koalici se **Sdružením nezávislých občanů Prahy 5**. Na kandidátce jsou také další aktivní občané, zejména členové dalších spolků, které usilují o to, aby se nám na Praze 5 lpe žilo.
+Piráti v Praze 5 kandidují v koalici se **[Sdružením nezávislých občanů Prahy 5](http://snop5.cz/)**. Na kandidátce jsou také členové dalších spolků, které usilují o to, aby se nám na Praze 5 lépe žilo, např. **[Spolek na ochranu Barrandova](http://barrandov.org/)**, **[Dívcčí hrady dohromady](https://www.facebook.com/zijemenakopci/)** nebo **[Za zelené Malvazinky](https://www.zelenemalvazinky.cz/)**. 
 
-Jak se pirátské zásady promítají do konrétního programu pro Prahu 5 najdete níže na této stránce.
+Jak se pirátské zásady promítají do konkrétního programu pro Prahu 5 najdete níže na této stránce.
