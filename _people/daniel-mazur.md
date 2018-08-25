@@ -4,6 +4,7 @@ name:     Daniel Mazur  	# běžně používáné jméno
 fullname: RNDr. Daniel Mazur, PhD.  	# jméno s tituly etc.
 category:
   - clenove
+  - kontaktni_osoba
 ordclenove: 3
 description: Předseda místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
