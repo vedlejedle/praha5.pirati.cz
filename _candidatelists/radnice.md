@@ -91,7 +91,7 @@ tail:
     party: Dívčí hrady dohromady
   - name: Ing. Jitka Sigmundová
     age: 60
-    profession: úndřednice
+    profession: úřednice
     party: SNOP 5
   - name: Ing. Filip Karel Ph.D.
     age: 37
