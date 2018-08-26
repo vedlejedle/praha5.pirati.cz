@@ -13,6 +13,8 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 Piráti v Praze 5 kandidují v koalici se **[Sdružením nezávislých občanů Prahy 5](http://snop5.cz/)**. Na kandidátce jsou také členové dalších spolků, které usilují o to, aby se nám na Praze 5 lépe žilo, např. **[Spolek na ochranu Barrandova](http://barrandov.org/)**, **[Dívcčí hrady dohromady](https://www.facebook.com/zijemenakopci/)** nebo **[Za zelené Malvazinky](https://www.zelenemalvazinky.cz/)**. 
 
+V obcích a krajích, kde uspějeme, budeme připraveni převzít zodpovědnost za vedení podle našeho programu - jako dosud v Mariánských lázních nebo Brně. V případě opoziční role zopakujeme vytrvalé úsilí jako dosud v Praze.
+
 Jak se pirátské zásady promítají do konkrétního programu pro Prahu 5 najdete níže na této stránce.
 
 <blockquote class="c-blockquote c-blockquote--wicon">
