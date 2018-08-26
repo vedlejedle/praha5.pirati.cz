@@ -9,6 +9,10 @@ groups:
   - category: clenove
 ---
 
+Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.
+
+Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Protože jen taková umožňuje vznik moderní a prosperující ekonomiky, která umožní vysokou kvalitu života v budoucnosti.
+
 ## Vlastnosti spojované s Piráty:
 
 * Otevřenost, průhlednost, poctivost, pracovitost, liberalismus, svoboda jednotlivce, informovanost, férovost, komunikativnost, odbornost, rozum, mládí, dynamika.
