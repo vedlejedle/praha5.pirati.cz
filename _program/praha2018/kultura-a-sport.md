@@ -5,12 +5,9 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 # approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: daniel.mazur
-perex: Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze.
-Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Podpoříme otevírání sportovišť při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
-  
+perex: Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze. Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Podpoříme otevírání sportovišť při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
 order: 8
 ---
-
 Budeme prosazovat rozšiřování zázemí pro kulturu. Vnímáme nepoměrně nízký počet divadel (Švandovo divadlo, Orfeus), pro větší koncerty u nás prostor není. Chceme to změnit a výrazně zvýšit míru zapojení městské části do kulturního dění v Praze.
 Budeme bránit pokračování změn v územním plánu, kterým přicházíme o místa pro aktivní sportování ve prospěch další developerské výstavby. Podpoříme otevírání sportovišť při školách občanům. Společně s Magistrátem budeme propojovat síť cyklostezek a cyklotras.
 
@@ -35,5 +32,6 @@ Budeme bránit pokračování změn v územním plánu, kterým přicházíme o 
 **Podpoříme zájem o sport.** V případě zájmu obyvatel o místo pro cvičení, lezecké stěny, fotbalová, skateboardová a další hřiště apod. vyhradíme prostředky i prostory, pokud to bude jen trochu možné.
 
 **Budeme prosazovat dostatek míst pro odpočinek už ve fázi územního plánování.** Zaměříme se na rovnoměrné rozložení sportovišť a hřišť po celé městské části.
+
 
 **Něco navíc: Umělecká tvorba a produkce vyžaduje dlouhodobou a stabilní podporu. Navážeme na dříve provedenou dobrou práci, aktualizujeme koncepci podpory umění a zapojíme ji do plánování rozvoje městské části.**
