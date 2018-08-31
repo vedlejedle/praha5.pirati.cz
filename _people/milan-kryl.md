@@ -18,6 +18,6 @@ Nikdy jsem nebyl politicky organizován. Mám však zkušenosti s komunální po
 Jsem dlouhodobě aktivní v neziskovém sektoru. V letech 1987-97 jsem byl zvolen předsedou čs. jachtařské asociace třídy Pirát a přivedl ji do International Pirate Association, kde jsem ČR zastupoval. Založil jsem první jachtklub v ČSFR po r.1989 a první bytové družstvo v Karlíně a s ním inicioval zahájení privatizace bytů v Praze 8. V těchto neziskových aktivitách jsem byl opakovaně zvolen předsedou - národní asociace, klubu i bytového družstva.
 Zajímám se o ICT, AI a otevřená data, otevřenou společnost a sdílenou ekonomiku (wikinomie, open sources). V r. 2016 jsem jako řadový občan úspěšně nominoval radnici Prahy 5 do negativní části soutěže o otevřenou/zavřenou radnici.
 
-**Vzdělání/práce:** Předseda Spolku na ochranu Barrndova.
+**Vzdělání/práce:** Předseda Spolku na ochranu Barrandova.
 
 **Politik:** Mojí motivací pro kandidaturu je příležitost zprůhlednit systém a omezit možnosti zneužívání moci. Idealistická vize je dosáhnout stavu, kdy politika bude tak dobře kontrolovatelnou službou, že tím přestane být atraktivní pro kmotry. Rád na tom budu pracovat jako zastupitel ve výborech, komisích a pomáhat pirátskému klubu zastupitelů. Politika je týmová práce. 
