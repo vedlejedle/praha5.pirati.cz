@@ -36,5 +36,4 @@ Budeme bránit pokračování změn v územním plánu, kterým přicházíme o 
 
 **Budeme prosazovat dostatek míst pro odpočinek už ve fázi územního plánování.** Zaměříme se na rovnoměrné rozložení sportovišť a hřišť po celé městské části.
 
-
 **Něco navíc: Umělecká tvorba a produkce vyžaduje dlouhodobou a stabilní podporu. Navážeme na dříve provedenou dobrou práci, aktualizujeme koncepci podpory umění a zapojíme ji do plánování rozvoje městské části.**
