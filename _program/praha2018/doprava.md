@@ -9,6 +9,8 @@ perex: Městská část Praha 5 patří dopravně k nejzatíženějším částe
 order: 3
 ---
 
+Městská část Praha 5 patří dopravně k nejzatíženějším částem Prahy. To přináší negativní vlivy v oblastech kvality ovzduší a hluku. I v tomto chceme zásadní změnu k lepšímu. Naším cílem je maximálně omezit tranzitní automobilovou dopravu Prahou 5 mimo trasu Městského okruhu a pomocí P+R parkovišť a řízeného parkování v zónách převést individuální automobilovou dopravu z okolí Prahy na veřejnou, nejlépe kolejovou dopravu. Doprava nejsou jenom auta, ale také chodci, cyklisté, tramvaje, vlaky nebo lodě. Zaměříme se na to, aby se Prahou 5 dalo pohodlně jezdit na kole nebo chodit pěšky.   
+
 ## Snížení dopravní zátěže a jejich negativních vlivů
 
 **Méně aut ze středních Čech.** Zajistíme dostatek P+R parkovacích míst na páteřních příjezdových trasách do městské části Praha 5 a zorganizujeme kampaň na jejich podporu. Zavedeme systém motivačních opatření pro preferenci MHD a využívání P + R parkovišť.
