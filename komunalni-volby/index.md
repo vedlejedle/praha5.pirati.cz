@@ -11,7 +11,7 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 3. **Obrana svobody**: Přímá demokracie, svobodné podnikání, odstraňování bariér (ve vzdělání, sociální oblasti, přístupu ke zdravotnictví apod.), rovné příležitosti žen a mužů.
 4. **Ochrana občanů před šikanou**: Podpora sociálně slabých a znevýhodněných (samoživitelky, senioři, studenti, nezaopatřené děti, děti z dětských domovů, atd.), ochrana přírody - ekologie, životní prostředí. Piráti chrání zájmy občanů, nikoliv politiků.
 
-Piráti v Praze 5 kandidují v koalici se **[Sdružením nezávislých občanů Prahy 5](http://snop5.cz/)**. Na kandidátce jsou také členové dalších spolků, které usilují o to, aby se nám na Praze 5 lépe žilo, např. **[Spolek na ochranu Barrandova](http://barrandov.org/)**, **[Dívcčí hrady dohromady](https://www.facebook.com/zijemenakopci/)** nebo **[Za zelené Malvazinky](https://www.zelenemalvazinky.cz/)**. 
+Piráti v Praze 5 kandidují v koalici se **[Sdružením nezávislých občanů Prahy 5](http://snop5.cz/)**. Na kandidátce jsou také členové dalších spolků, které usilují o to, aby se nám na Praze 5 lépe žilo, např. **[Spolek na ochranu Barrandova](http://barrandov.org/)**, **[Dívčí hrady dohromady](https://www.facebook.com/zijemenakopci/)** nebo **[Za zelené Malvazinky](https://www.zelenemalvazinky.cz/)**. 
 
 V obcích a krajích, kde uspějeme, budeme připraveni převzít zodpovědnost za vedení podle našeho programu - jako dosud v Mariánských lázních nebo Brně. V případě opoziční role zopakujeme vytrvalé úsilí jako dosud v Praze.
 
