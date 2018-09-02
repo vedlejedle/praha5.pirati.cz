@@ -4,7 +4,7 @@ uid: uzemmni-rozvoj
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
-garant: petr.bervid
+garant: milan.kryl
 perex: Praha rezignovala na plánování svého rozvoje a kvalitu života svých obyvatel. Tento přístup změníme. Podoba města nebude pouze v režii velkých developerů.  Velké kancelářské plochy vedou k nárůstu dojíždějících a potížím v dopravě. Chybějí naopak místa ke sportu, odpočinku, obchody, školy i zdravotní zařízení a zařízení pro seniory. Developerům nastavíme mantinely tak,  abychom zajistili dostatek služeb i příjemné životní prostředí a uhájili charakter původní zástavby.  
 order: 2
 ---
