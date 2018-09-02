@@ -7,7 +7,7 @@ leader:
   age: 40
   profession: vědecký pracovník, manažer výzkumných projektů
   party: Pirát
-  description: Vzdělávání a digitalizace # zobrazuje se v komunalni-volby
+  description: školství a další vzdělávání # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: karel.bauer
@@ -18,7 +18,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: eva.horakova
     age: 37
     profession: medicínská konzultantka
-    description: zdravotní a sociální problematika
+    description: zdravotnictví a sociální péče
     party: Pirátka
   - uid: petr.bervid
     age: 48
@@ -41,7 +41,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     name: Ing. Milan Kryl
     age: 57
     profession: filantrop, jednatel Spolku na ochranu Barrandova
-    description: územní plánování
+    description: územní rozvoj a výstavba
     party: Spolek na ochranu Barrandova
 
 tail:
