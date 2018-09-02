@@ -29,7 +29,7 @@ Budeme bránit pokračování změn v územním plánu, kterým přicházíme o 
 
 **Využijeme školní hřiště.** Ve spolupráci s řediteli škol budeme podporovat využití školních prostor mimo výuku pro místní společenský život.
 
-**Podpoříme zájem o sport.** V případě zájmu obyvatel o místo pro cvičení, lezecké stěny, fotbalová, skateboardová a další hřiště apod. vyhradíme prostředky i prostory, pokud to bude jen trochu možné.
+**Podpoříme zájem o sport.** V případě zájmu obyvatel o místo pro cvičení, lezecké stěny, fotbalová, skateboardová a další hřiště apod. vyhradíme prostředky i prostory, pokud to bude jen trochu možné. Budeme podporovat zejména ty sportovní oddíly, které se starají o mládež.
 
 **Budeme prosazovat dostatek míst pro odpočinek už ve fázi územního plánování.** Zaměříme se na rovnoměrné rozložení sportovišť a hřišť po celé městské části.
 
