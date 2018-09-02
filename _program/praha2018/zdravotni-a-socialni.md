@@ -31,7 +31,7 @@ Kvalitní péče o seniory, postižené a sociálně slabé je základním znake
 
 ## Místa pro odpočinek
 
-**Více sportovišť, hřišť a odpočinkových ploch.** Zaměříme se na rovnoměrné rozložení míst k odpočinku a rekreaci po celé městské části. Lokality jako jsou Barrandov, Kotlářka.
+**Více sportovišť, hřišť a odpočinkových ploch.** Zaměříme se na rovnoměrné rozložení míst k odpočinku a rekreaci po celé městské části.
 
 **Pitná voda v ulicích.** Vybudujeme přístup k pitné vodě (fontánky-pítka) u stanic metra B na Praze 5 a velkých křižovatek MHD.
 Rozšíříme bezbariérový přístup. Podpoříme bezbariérovost a místa pro odpočinek ve všech veřejných prostorách a institucích. 
