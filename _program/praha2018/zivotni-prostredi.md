@@ -4,7 +4,7 @@ uid: zivotni-prostredi
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
-garant: linda.neubergova
+garant: jiri.vejmelka
 perex: Horka v Praze ukázala, že na teplotní výkyvy není město připravené. Jen kropit ulice nestačí. Základem je dostatek stromů a další zeleně v ulicích i péče o parky a chráněná území, kde si mohou občané odpočinout. Samozřejmostí je i pocit bezpečí. Na Praze 5 je navíc tikající bomba - Motolská skládka. 
 order: 4
 ---
