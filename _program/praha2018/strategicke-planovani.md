@@ -4,7 +4,7 @@ uid: strategicke-planovani
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
-garant: stepan.rattay
+garant: daniel.mazur
 perex: Česká pirátská strana společně s SNOP bude v následujícím volebním období usilovat o řádné zpracování strategie rozvoje do roku 2028 a zavazujeme se do toho procesu aktivně zapojit i Vás občany, kteří zde žijete a trávíte čas. 
 order: 1
 ---
