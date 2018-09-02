@@ -10,8 +10,6 @@ order: 7
 ---
 Městská část Praha 5 je domovem téměř 40 mateřským, základním a středním školám, a přes polovinu z nich zřizuje. Je naší úlohou se starat nejen o budovy, sportoviště a školní jídelny, ale i pracovat s řediteli, aktivními učiteli a rodiči na motivující atmosféře a dalším zajištění kvality vzdělávání. Budeme prosazovat, aby městská část školy na svém území systematicky podporovala, i finančně nad rámec údržby a nad rámec přerozdělení vyhrazených peněz z MŠMT. Chceme, aby Praha 5 cíleně financovala všestranné zlepšování škol, budování pedagogických týmů a modernizaci výuky.
 
-Pražské školy vychovávají občany schopné se prosadit v rychle se měnících podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.
-
 ## Peníze pro školy ve prospěch kvality
 
 **Podpora moderních směrů vzdělávání.** Ve spolupráci s řediteli škol rozpracujeme strategický plán pro všestranný rozvoj škol, který výrazně rozšíří záběr stávajícího projektu “Místní akční plán vzdělávání”. Podpoříme školy v rozvíjení moderních vzdělávacích cest a pozitivní motivace žáků i učitelů. Skrze finanční zajištění umožníme školám rozumné zmenšení počtu dětí ve třídách, zvětšení prostoru pro projektové a kolaborativní učení, věcnou a pozitivní zpětnou vazbu - vše, o čem víme, že rozvíjí pozitivní motivaci a celoživotní vztah ke vzdělání.
@@ -35,4 +33,4 @@ Pražské školy vychovávají občany schopné se prosadit v rychle se měníc�
 
 **Podpoříme místní i celopražské iniciativy ke komunikaci rodičů a učitelů.** Zajistíme průběžný otevřený sběr námětů pro podporu kvality škol.
 
-**A navíc: Investice zvládneme budeme realizovat transparentně a včas.**
+**A navíc: Investice zvládneme, budeme je realizovat transparentně a včas.**
