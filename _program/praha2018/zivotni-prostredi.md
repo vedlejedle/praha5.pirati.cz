@@ -24,7 +24,7 @@ Udržování a rozvoj stezek. Budeme spolupracovat s magistrátem na rozvoji a u
 
 **Opravené a čisté chodníky, bezpečné ulice.** Využijeme moderní technologie i iniciativu místních občanů, pro upozornění na nepořádek a rozbité chodníky či ulice.. Řádný úklid a čistota veřejných prostranství jsou pro nás samozřejmostí. Dohlédneme na úklidové firmy a posílíme bezpečnost v parcích a ulicích.
 
-**Nová výstavba jen s potřebnou plochou zeleně.** Součástí nové výstavby v rozvojových územích musí být odpovídající plochy zeleně pro spot, rekreaci a aktivní odpočinek.
+**Nová výstavba jen s potřebnou plochou zeleně.** Součástí nové výstavby v rozvojových územích musí být odpovídající plochy zeleně pro sport, rekreaci a aktivní odpočinek.
 
 ## Konkrétní představy o ochraně přírody 
 
