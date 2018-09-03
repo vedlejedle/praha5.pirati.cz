@@ -23,7 +23,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: petr.bervid
     age: 48
     profession: projektový manažer, podnikatel, místopředseda spolku SNOP 5
-    description: životní prostředí, zapojení občanů do rozhodování 
+    description: životní prostředí, doprava 
     party: SNOP 5
   - uid: jiri.vejmelka
     name: Ing. Jiří Vejmelka
