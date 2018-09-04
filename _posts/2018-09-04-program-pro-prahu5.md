@@ -6,7 +6,7 @@ layout: post
 title: Zveřejněn pirátský program pro Prahu 5
 author: Filip Karel
 # authorId: filip.karel    uid nekoho z _people (nepoviné)
-image: posts/naprahuzmeny_komunalni_volby.jpg
+image: posts/naprahuzmeny_komunlani_volby.jpg
 ---
 
 Piráti a Sdružení nezávislých občanů pro Prahu 5 (SNOP5) se dohodli na [společném programu i společné kandidátce](https://praha5.pirati.cz/komunalni-volby/) pro letošní komunální volby na Praze 5.
