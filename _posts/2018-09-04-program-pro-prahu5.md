@@ -21,9 +21,9 @@ Hlavní programové body jsou v souladu s celopražským programem:
 * Pomocí stromů ochladíme Prahu!
 * Služby pro moderní rodinu.
 
-Pro Prahu 5 musí být prvním krokem zpracování jasné a srozumitelné strategie rozvoje Prahy 5 - a to se zapojením široké veřejnosti. 
+Pro Prahu 5 musí být prvním krokem zpracování jasné a srozumitelné strategie rozvoje Prahy 5 - a to se zapojením široké veřejnosti. Ta by měla zahrnovat rozvoj v oblasti bytové a sociální politiky, školství, kultury, životního prostředí, územního rozvoje, dopravy atd.
 
-> 
+> Lídr kanidátky Daniel Mazur k tomu říká: "Dofáme, že dosáhneme ve volbách takový výsledek, který nám umožní podstatnou měrou ovlivňovat chod Prahy 5. Pak můžete očekávat konec období, kdy radnici chybí jakákoliv koncepce."
 
 Celý program program a kandidátní listinu najdete [zde](https://praha5.pirati.cz/komunalni-volby/).
 
