@@ -13,11 +13,11 @@ Piráti a Sdružení nezávislých občanů pro Prahu 5 (SNOP5) se dohodli na [s
 
 Na kandidátce dostali prostor i zástupci dalších významných spolků (Za lepší Barrandov, Dívčí hrady dohromady atd.).
 
-> "Došlo ke zdařilému propojení mladých lidí plných elánu z Pirátské strany s námi, spíše staršími a zkušenými členy občasnkých spolků," říká Karel Bauer, předseda spolku SNOP5.
+> "Došlo ke zdařilému propojení mladých lidí plných elánu z Pirátské strany s námi, spíše staršími a zkušenými členy občanských spolků," říká Karel Bauer, předseda spolku SNOP5.
 
-Prvním krokem po volbách musí být zpracování jasné a srozumitelné strategie rozvoje Prahy 5 - a to se zapojením široké veřejnosti. Ta by měla zahrnovat rozvoj v oblasti bytové a sociální politiky, školství, kultury, životního prostředí, územního rozvoje, dopravy atd.
+Prvním krokem po volbách musí být zahájení tvorby jasné a srozumitelné dlouhodobé strategie rozvoje Prahy 5 - ta by měla zahrnovat rozvoj v oblasti bytové a sociální politiky, školství, kultury, životního prostředí, územního rozvoje, dopravy atd. Tvorba této strategie by přitom měla být transparentní a měla by probíhat se zapojením široké veřejnosti.
 
-> Lídr kanidátky Daniel Mazur k tomu říká: "Dofáme, že dosáhneme ve volbách takový výsledek, který nám umožní podstatnou měrou ovlivňovat chod Prahy 5. Pak můžete očekávat konec období, kdy radnici chybí jakákoliv koncepce."
+> Lídr kanidátky Daniel Mazur k tomu říká: "Doufáme, že dosáhneme ve volbách takového výsledku, který nám umožní podstatnou měrou ovlivňovat chod Prahy 5. Pak můžete očekávat konec období, kdy radnici chybí jakákoliv koncepce."
 
 Mezi další hlavní programové priority patří:
 * **Transparentní a profesionální radnice**: Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. 
