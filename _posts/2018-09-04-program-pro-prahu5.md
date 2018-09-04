@@ -11,11 +11,11 @@ image: posts/naprahuzmeny_komunlani_volby.jpg
 
 Piráti a Sdružení nezávislých občanů pro Prahu 5 (SNOP5) se dohodli na [společném programu i společné kandidátce](https://praha5.pirati.cz/komunalni-volby/) pro letošní komunální volby na Praze 5.
 
-Na kandidátce dostali prostor i zástupci dalších významných spolků (Za lepší Barrandov, Dívčí hrady dohromady atd.).
+Na kandidátce dostali prostor i zástupci dalších významných spolků (Spolek na ochranu Barrandova, Dívčí hrady dohromady atd.).
 
 > "Došlo ke zdařilému propojení mladých lidí plných elánu z Pirátské strany s námi, spíše staršími a zkušenými členy občanských spolků," říká Karel Bauer, předseda spolku SNOP5.
 
-Prvním krokem po volbách musí být zahájení tvorby jasné a srozumitelné dlouhodobé strategie rozvoje Prahy 5 - ta by měla zahrnovat rozvoj v oblasti bytové a sociální politiky, školství, kultury, životního prostředí, územního rozvoje, dopravy atd. Tvorba této strategie by přitom měla být transparentní a měla by probíhat se zapojením široké veřejnosti.
+Prvním krokem po volbách musí být zahájení tvorby dlouhodobé strategie rozvoje Prahy 5 - ta by měla zahrnovat rozvoj v oblasti bytové a sociální politiky, školství, kultury, životního prostředí, územního rozvoje, dopravy atd. Tvorba této strategie by přitom měla být transparentní a měla by probíhat se zapojením široké veřejnosti.
 
 > Lídr kanidátky Daniel Mazur k tomu říká: "Doufáme, že dosáhneme ve volbách takového výsledku, který nám umožní podstatnou měrou ovlivňovat chod Prahy 5. Pak můžete očekávat konec období, kdy radnici chybí jakákoliv koncepce."
 
