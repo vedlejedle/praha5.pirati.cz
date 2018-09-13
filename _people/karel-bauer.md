@@ -1,7 +1,6 @@
 ---
 uid: karel.bauer
 name:     Karel Bauer  	# běžně používáné jméno
-fullname: Karel Bauer 	# jméno s tituly etc.
 category:
   - SNOP5
 ordclenove: 3

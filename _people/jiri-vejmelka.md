@@ -1,7 +1,9 @@
 ---
 uid: jiri.vejmelka
 name:     Jiří Vejmelka  	# běžně používáné jméno
-fullname: Ing. Jiří Vejmelka 	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:
   - SNOP5
 ordclenove: 3

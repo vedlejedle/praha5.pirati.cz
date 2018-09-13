@@ -1,7 +1,9 @@
 ---
 uid: daniel.mazur
 name:     Daniel Mazur  	# běžně používáné jméno
-fullname: RNDr. Daniel Mazur, PhD.  	# jméno s tituly etc.
+titles:
+  before: RNDr. 
+  after: PhD.
 category:
   - clenove
   - kontaktni_osoba

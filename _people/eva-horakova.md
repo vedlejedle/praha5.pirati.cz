@@ -1,7 +1,9 @@
 ---
 uid: eva.horakova
 name:     Eva Horáková  	# běžně používáné jméno
-fullname: Mgr. Eva Horáková	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:
   - clenove
 ordclenove: 3

@@ -1,7 +1,6 @@
 ---
 uid: petr.kricensky
 name:     Petr Křičenský  	# běžně používáné jméno
-fullname: Petr Křičenský	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3

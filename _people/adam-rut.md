@@ -1,7 +1,9 @@
 ---
 uid: adam.rut
 name:     Adam Rut  	# běžně používáné jméno
-fullname: MgA. Adam Rut 	# jméno s tituly etc.
+titles:
+  before: MgA. 
+  after:
 category:
   - clenove
 ordclenove: 3

@@ -1,7 +1,6 @@
 ---
 uid: linda.neubergova
 name:     Linda Neubergová  	# běžně používáné jméno
-fullname: Linda Neubergová 	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3

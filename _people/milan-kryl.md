@@ -1,7 +1,9 @@
 ---
 uid: milan.kryl
 name:     Milan Kryl  	# běžně používáné jméno
-fullname: Ing. Milan Kryl 	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:
   - SNOP5
 ordclenove: 3

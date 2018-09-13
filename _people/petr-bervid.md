@@ -1,7 +1,9 @@
 ---
 uid: petr.bervid
 name:     Petr Bervid  	# běžně používáné jméno
-fullname: Ing. Petr Bervid, MBA	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:
   - SNOP5
 ordclenove: 3
