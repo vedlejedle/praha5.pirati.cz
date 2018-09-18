@@ -8,7 +8,7 @@ garant: adam.rut
 perex: Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je celostátní verze Pirátského programu do komunálních voleb 2018, kterou jsme spoluvytvářeli.
 order: 6
 ---
-Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je celostátní verze Pirátského programu do komunálních voleb 2018, kterou jsme spoluvytvářeli.
+Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je [celostátní verze Pirátského programu](https://www.pirati.cz/program/komunal2018/) do komunálních voleb 2018, kterou jsme spoluvytvářeli.
 
 
 ## Srozumitelné informování a plánování
