@@ -13,3 +13,4 @@ Piráti v Praze 5 kandidují v koalici se **[Sdružením nezávislých občanů 
 > Po úspěšných volbách do poslanecké sněmovny pociťují Piráti velký zájem ze strany veřejnosti. Rádi bychom tuto přízeň společnosti vrátili a v nadcházejících podzimních volbách vpluli do zastupitelsteva Prahy 5.
 
 #### Daniel Mazur, lídr pirátské kandidátky pro MČ Praha 5
+---
