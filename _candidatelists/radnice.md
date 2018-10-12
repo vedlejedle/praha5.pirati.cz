@@ -43,12 +43,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: filantrop, jednatel Spolku na ochranu Barrandova
     description: územní rozvoj a výstavba
     party: Spolek na ochranu Barrandova
-
-tail:
-  - name: MgA. Adam Rut
+  - uid: adam.rut
+    name: MgA. Adam Rut
     age: 32
     profession: analytik a projektový manažer
-    party: Piráti
+    description: otevřená radnice
+    party: Pirát
+
+tail:
   - name: Jiří Krátky
     age: 54
     profession: produkční
