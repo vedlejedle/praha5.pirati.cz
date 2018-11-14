@@ -13,6 +13,6 @@ Na ustavující schůzi nového zastupitelstva dne 13. 11. 2018 byl zvolen staro
 
 Zápis, včetně videozáznamu z jednání zastupitelstva najdete v nejbližších dnech zveřejněný na [webových stránkách MČ Praha 5](https://www.praha5.cz/zastupitelstvo/stenozaznamy/).
 
-V rámci otevřenosti nová koalice zveřejňuje uzavřenou [koaliční smlouvu Za lepší Prahu 5](https://praha5.pirati.cz/assets/Koalicni-smlouva-Pirati-SNOP-ODS-ANO-Praha5-2018.pdf), která obsahuje i programové priority nové rady. Tyto programové priority budou podrobněji rozpracovány v programovém prohlášení rady.
+V rámci otevřenosti nová koalice zveřejňuje [koaliční smlouvu Za lepší Prahu 5](https://praha5.pirati.cz/assets/Koalicni-smlouva-Pirati-SNOP-ODS-ANO-Praha5-2018.pdf), na které se koaliční strany dohodly. Smlouva obsahuje i programové priority nové rady. V programovém prohlášení rady budou tyto priroty konkrétněji rozpracovány a také doplněny o další cíle a agendu rady.
 
 - - -
