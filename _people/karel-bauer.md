@@ -8,7 +8,7 @@ description: předseda spolku SNOP 5 # zobrazuje se v lide
 profession: předseda spolku SNOP 5
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
 mail:
-  - karel.bauer@seznam.cz
+  - bauer.karel@seznam.cz
 profiles:
 
 ---
